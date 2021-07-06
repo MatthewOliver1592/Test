@@ -1,0 +1,32 @@
+h1 {
+    font-size: 64px;
+    padding: 14px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: rgb(15, 17, 126);
+    font-size: 24px;
+    padding: 12px;
+    font-family: 'Festive', cursive;
+    text-align:center;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    padding: 16px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    list-style-position: inside;
+}
+
+/*http://www.clker.com/cliparts/5/j/r/G/y/p/shopping-cart-icon.svg
+https://openclipart.org/image/800px/svg_to_png/213239/Search-icon.png
+*/
